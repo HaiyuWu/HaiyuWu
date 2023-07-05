@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently a 2nd-year PhD student@University of Notre Dame!
 - 🔍 I’m working on accuracy disparity in face recognition
-- 🔭 I'm looking for an Summer internship in 2024.
+- 🔭 I'm looking for a Summer internship in 2024.
 - 📫 How to reach me: [hwu6@nd.edu](hwu6@nd.edu)
 - ✨ More information? Go [here](https://haiyuwu.com/).
 <!--
