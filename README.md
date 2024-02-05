@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently a 2nd-year PhD student@University of Notre Dame!
+- 🌱 I’m currently a 3rd-year PhD student@University of Notre Dame!
 - 🔍 I’m working on accuracy disparity in face recognition
 - 🔭 I'm looking for a Summer internship in 2024.
 - 📫 How to reach me: [hwu6@nd.edu](hwu6@nd.edu)
-- ✨ More information? Go [here](https://haiyuwu.netlify.app/).
+- ✨ More about me? Go [here](https://haiyuwu.netlify.app/).
 <!--
 **HaiyuWu/HaiyuWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
