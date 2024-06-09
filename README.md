@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently a 3rd-year PhD student@University of Notre Dame!
 - 🔍 I’m working on vulnerability detection and reliability enhancement of recognition models.
-- 🔭 I'm looking for a Summer internship in 2024.
+- 🔭 I'm looking for a Fall internship in 2024.
 - 📫 How to reach me: [hwu6@nd.edu](hwu6@nd.edu)
 - ✨ More about me? Go [here](https://haiyuwu.netlify.app/).
 <!--
