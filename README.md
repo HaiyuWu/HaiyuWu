@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently a 3rd-year PhD student@University of Notre Dame!
-- 🔍 I’m working on vulnerability detection and reliability enhancement of recognition models.
+- 🔍 I’m working on vulnerability detection and reliability enhancement of VLM models.
 - 🔭 I'm looking for a full-time job, please reach me if there is an opportunity.
 - 📫 How to reach me: [hwu6@nd.edu](hwu6@nd.edu)
 - ✨ More about me? Go [here](https://haiyuwu.netlify.app/).
