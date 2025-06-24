@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently a 3rd-year PhD student@University of Notre Dame!
-- 🔍 I’m working on vulnerability detection and reliability enhancement of VLM models.
-- 🔭 I'm looking for a full-time job, please reach me if there is an opportunity.
-- 📫 How to reach me: [hwu6@nd.edu](hwu6@nd.edu)
+- 🌱 I’m currently a Research Scientist @ Altos Labs!
+- 🔍 I’m working on the Multi-modal model.
 - ✨ More about me? Go [here](https://haiyuwu.netlify.app/).
 <!--
 **HaiyuWu/HaiyuWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
