@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently a Research Scientist @ Altos Labs!
 - 🔍 I’m working on the Multi-modal model.
-- ✨ More about me? Go [here](https://haiyuwu.netlify.app/).
+- ✨ More about me? Go [here](https://haiyuwu.github.io/).
 - 📚 I am unflashy but I glow. I am rooted but I flow.
 <!--
 **HaiyuWu/HaiyuWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
